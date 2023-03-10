@@ -13,4 +13,4 @@ I'm studing in:
 - Russian Chemist-Tecnology  University  
 
 And here mast be a _"cat"_ foto, if you understand cats lovers...
-![Котик](tets_page/img/cat.jpg)
+![Котик](img/cat.jpg)
